@@ -1,0 +1,5 @@
+class Marvel{
+public void ironman(){
+system.out.println("i m ironman");
+}}
+
